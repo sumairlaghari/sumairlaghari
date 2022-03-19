@@ -37,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://stackoverflow.com/users/18376956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18376956" height="30" width="40" /></a>
 <a href="https://fb.com/beingsumairlaghari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="beingsumairlaghari" height="30" width="40" /></a>
 <a href="https://instagram.com/sumair.laghari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumair.laghari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucywc5xsgbld0y8mrqs4kbiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucywc5xsgbld0y8mrqs4kbiw" height="30" width="40" /></a>
 <a href="https://discord.gg/S86gQRcpc9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="S86gQRcpc9" height="30" width="40" /></a>
 </p>
 
